@@ -1,4 +1,4 @@
-# ✅ **5. Короткий CHANGELOG.md**
+# ✅ **5. CHANGELOG.md**
 
 ```markdown
 # Changelog
